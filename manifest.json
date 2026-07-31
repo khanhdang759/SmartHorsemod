@@ -1,0 +1,17 @@
+{
+  "Name": "Smart Horse",
+  "Author": "KhanhDang",
+  "Version": "1.0.0",
+  "Description": "Ngựa chạy nhanh hơn, dễ điều khiển, chui qua khe hẹp, tự nhặt đồ khi cưỡi, và có thể gọi ngựa đến gần bạn",
+  "UniqueID": "KhanhDang.SmartHorse",
+  "EntryDll": "SmartHorse.dll",
+  "MinimumApiVersion": "4.0.0",
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ],
+  "UpdateKeys": [],
+  "ContentPackFor": null
+}

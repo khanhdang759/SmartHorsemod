@@ -1,0 +1,12 @@
+{
+  "SpeedMultiplier": 1.5,
+  "MaxSpeed": 14,
+  "EnableNarrowGapPassing": true,
+  "HitboxShrinkPixels": 10,
+  "EnableAutoCollectWhileRiding": true,
+  "AutoCollectRadius": 1,
+  "EnableCallHorse": true,
+  "CallHorseKey": "H",
+  "CallHorseOutdoorsOnly": true,
+  "DebugLogging": false
+}
