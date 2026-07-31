@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Horse (SMAPI Mod) 🐎
 
 Mod SMAPI viết bằng C# giúp nâng cấp con ngựa trong Stardew Valley:
@@ -88,3 +89,6 @@ nhưng không có gì đảm bảo 100% nếu bạn dùng bản game rất mới
 - Thêm hiệu ứng hạt (particle trail) khi ngựa chạy nhanh.
 - Thêm animation "vẫy tay gọi ngựa" khi dùng tính năng gọi ngựa.
 - Thêm hệ thống thể lực/stamina cho ngựa nếu muốn cân bằng lại tốc độ tăng thêm.
+=======
+# SmartHorsemod
+>>>>>>> 4b79a92b90f04b3542ee8eadf3e50f1c84a2fe20
